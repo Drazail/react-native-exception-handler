@@ -32,7 +32,6 @@ public class DefaultErrorScreen extends Activity {
         setContentView(R.layout.default_error_screen);
         quitButton = (Button) findViewById(R.id.eh_quit_button);
         relaunchButton = (Button) findViewById(R.id.eh_restart_button);
-        showDetailsButton = (Button) findViewById(R.id.eh_show_details_button);
         stackTraceView = (TextView) findViewById(R.id.eh_stack_trace_text_view);
         stackTraceView.setText(stackTraceString);
 

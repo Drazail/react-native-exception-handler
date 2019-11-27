@@ -1,3 +1,5 @@
 <resources>
     <string name="show_error_details"><u>SHOW ERROR DETAILS</u></string>
+    <string name="error_title">Critical Error Occurred !</string>
+    <string name="error_body">error occurred, we have sent this error to our team, please restart the app.</string>
 </resources>
